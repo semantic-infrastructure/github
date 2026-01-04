@@ -13,10 +13,10 @@ Welcome to Semantic Infrastructure. We develop technical and ethical frameworks 
 - **Focus:** Attestation services, ZK-proof integration, and auditable data trails.
 - **Goal:** Ensuring that every digital claim is backed by immutable proof.
 
-### 2. [protocolcover.com](https://protocolcover.com) | Risk Mitigation Layer
-*Defining the safety standards for the next generation of DeFi and RWA protocols.*
-- **Focus:** Failure mode taxonomy, automated settlement triggers, and smart contract insurance frameworks.
-- **Goal:** Protecting institutional capital against technical and logic-based exploits.
+### 2. [protocolcover.com](https://protocolcover.com) | Coverage Taxonomy Reference
+Neutral terminology and failure-mode taxonomy for protocol-level cover.
+Focus: Failure mode taxonomy, trigger & exclusion language, coverage models (DeFi / RWA).
+Goal: Provide a canonical reference layer for “protocol cover” — not an insurance provider.
 
 ### 3. [authorityanchor.com](https://authorityanchor.com) | Semantic Sovereignty
 *Establishing the canonical source hierarchy for an AI-saturated world.*
