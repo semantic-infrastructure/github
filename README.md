@@ -1,5 +1,19 @@
 # Semantic Infrastructure Labs
 
+> **Historical Status Notice**
+>
+> This repository preserves an early, discontinued conceptual state from the initial development phase in 2026.
+>
+> “Semantic Infrastructure Labs” was an early working designation that was subsequently abandoned. It does not represent the current identity, organizational structure, architecture, or portfolio of the projects referenced below.
+>
+> This repository is retained solely as a historical provenance artifact. The content below reflects its original conceptual state and has intentionally not been updated to match later developments.
+>
+> This project is not affiliated with other organizations, repositories, or initiatives using similar “Semantic Infrastructure Labs” or related naming.
+
+---
+
+# Semantic Infrastructure Labs
+
 **Architecting Truth, Trust, and Integrity for the Agentic Era (2026+).**
 
 Welcome to Semantic Infrastructure. We develop technical and ethical frameworks to bridge the gap between autonomous digital agents and real-world accountability. Our mission is to standardize how machine-driven value is proven, insured, and verified.
